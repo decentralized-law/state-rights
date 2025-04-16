@@ -71,6 +71,14 @@ This project is part of an initiative to publish legal instruments on the blockc
 
 The specific aim of the Declaration of State Rights and Duties is to return to a proper role for state legislators in relation to international law and international institutions.
 
+## Why This Declaration?
+
+The Declaration of State Rights and Duties addresses a critical failure in the current legal order. Before our eyes has emerged an international regulatory system that slowly erodes national sovereignty and individual liberty. It has no formal structures allowing public participation in creating, amending, or legally challenging its international standards and regulations. This has created a world of legislation without representation, where the legitimacy of governance is undermined and no appropriate checks and balances exist. Instead of protecting free exchange, cryptocurrency regulations especially are heavily geared towards supranational policy objectives.
+
+This declaration is a start to reimagine the balance between state sovereignty and international governance structures. It establishes clear boundaries between international and national affairs, protecting state sovereignty and collective free will from international powers. By publishing this declaration in a decentralized fashion on the blockchain, it provides immutable, permanent, and universally accessible principles to guide humanity toward healthier forms of international cooperation. The declaration serves as a first step in offering an alternative vision for a multi-polar world and inspiring more informed debate on the proper role of international regulation. 
+
+[Read the full substantiaton for the Declaration of State Rights and Duties](assets/dosr-explanatory-article.pdf)
+
 ## Getting Started
 
 ### Display the Declaration on Your Website
@@ -90,7 +98,7 @@ See the [Integration Guide](./docs/INTEGRATION.md) for detailed instructions on 
 ## Live Deployments
 
 - **Ethereum Contract**: [0x1855cc1cd697baf8a014c5bae7f18505f855aca6](https://etherscan.io/tx/0x7efc964bf802e118c9ca36d477d4ca27ac6b503ef2922be9e2e8e390df06a894)
-- **PDF Document**: [Declaration of State Rights and Duties.pdf](./assets/Declaration-of-State-Rights-and-Duties.pdf)
+- **PDF Document**: [Declaration of State Rights and Duties.pdf](assets/declaration-of-state-rights-and-duties.pdf)
 - **IPFS**: [ipfs://bafkreihse425qqhba26kcfpjkgqr73dsu3zxopniivjwlqzcfiii25xqr4](https://gateway.pinata.cloud/ipfs/bafkreihse425qqhba26kcfpjkgqr73dsu3zxopniivjwlqzcfiii25xqr4)
 
 ## How to Contribute
@@ -101,6 +109,7 @@ We welcome contributions, especially official/professional translations of the D
 
 - **Declaration Text**: CC0 1.0 Universal - Public Domain Dedication
 - **Code (Frontend Integration)**: MIT License
+- **Explanatory article: CC BY-ND 4.0
 
 See the [LICENSE](LICENSE.md) file for details.
 
