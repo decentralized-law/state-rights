@@ -96,10 +96,12 @@ The implementation:
 See the [Integration Guide](./docs/INTEGRATION.md) for detailed instructions on adding this to your website.
 
 ## Live Deployments
-
+- **Official site**: [decentralizedlaw.org/laws/dosr/](https://decentralizedlaw.org/laws/dosr/)
 - **Ethereum Contract**: [0x1855cc1cd697baf8a014c5bae7f18505f855aca6](https://etherscan.io/tx/0x7efc964bf802e118c9ca36d477d4ca27ac6b503ef2922be9e2e8e390df06a894)
 - **PDF Document**: [Declaration of State Rights and Duties.pdf](assets/declaration-of-state-rights-and-duties.pdf)
 - **IPFS**: [ipfs://bafkreihse425qqhba26kcfpjkgqr73dsu3zxopniivjwlqzcfiii25xqr4](https://gateway.pinata.cloud/ipfs/bafkreihse425qqhba26kcfpjkgqr73dsu3zxopniivjwlqzcfiii25xqr4)
+- **Archive.org**: [archive.org/details/declaration-of-state-rights-and-duties](https://archive.org/details/declaration-of-state-rights-and-duties)
+
 
 ## How to Contribute
 
